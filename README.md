@@ -64,3 +64,4 @@ ai-ml-analytics-starter/
 - The synthetic dataset is generated under `data/raw/customers.csv`.
 - Everything is CPU-friendly and should run in a few seconds on a laptop.
 # analytics-starter
+# analytics-starter
